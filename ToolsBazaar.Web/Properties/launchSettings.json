@@ -1,0 +1,13 @@
+{
+  "profiles": {
+    "ToolsBazaar.Web": {
+      "commandName": "Project",
+      "dotnetRunMessages": true,
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "launchUrl": "swagger",
+      "applicationUrl": "http://localhost:5127;https://localhost:7127"
+    }
+}
